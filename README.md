@@ -5,7 +5,7 @@
 - Requirements & Installation
 - Usage
 - Tabulate to display the stock details
-- Author
+- Credit
 
 ## Introduction
 This project is named Shoe Inventory System, it is an Object-Oriented Programming project written in Python. This system is used by shoe warehouse manager to mannage the inventory in the warehouse and performing the stock taking. It allows user to view items, search shoe, view total value of stock, view items either low in stock to restock them or high in stock which are on sale and add new shoe product by using the capture shoes function.
