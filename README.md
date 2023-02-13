@@ -39,4 +39,3 @@ When user chooses to view the stock details, the information will be displayed i
 This system is created by Samjana Sunuwar
 
 If you found any issue or having problem with this system, please email :e-mail: at zipporah.sunuwar@gmail.com
-![image](https://user-images.githubusercontent.com/121523004/218560090-4be261be-6d2c-40e2-8719-280cd800d21e.png)
